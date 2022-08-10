@@ -320,14 +320,8 @@ $
 
 ## Authors
 
-👤 **Obed Ehoneah**
-
-- GitHub: [@ehoneahobed](https://github.com/ehoneahobed)
-- Twitter: [@ehoneahobed](https://twitter.com/ehoneahobed)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ehoneahobed)
-- Blog: [Personal Blog](https://blog.ehoneahobed.com)
-
-👤 **JUSTICE MENSAH BLAY MEWUBE**
+👤 Agwuna Linus
+👤 
 
 - GitHub: [@JUSTICEMENSAH-ALX](https://github.com/JUSTICEMENSAH-ALX)
 - LinkedIn: [LinkedIn](linkedin.com/in/mensah-blay-justice)
